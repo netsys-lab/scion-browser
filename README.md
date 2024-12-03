@@ -1,6 +1,6 @@
 # SCION Browser
 
-The SCION Browser project aims to integrate SCION into the Brave web browser to enable path-aware retrieval of web resources. However, finding the most suitable paths is a challenging problem. This browser will use PANAPI to automatically find the corresponding paths, optimising application- and user-based metrics such as overall page load time, latency, bandwidth, privacy, and CO2 footprint according to the application's needs and user's preferences set in the browser. Additionally, it will also integrate support for RHINE into the Brave browser.
+The SCION Browser project (funded by [NGI Search](https://www.ngisearch.eu/view/Events/OC3Searchers)) aims to integrate SCION into the Brave web browser to enable path-aware retrieval of web resources. However, finding the most suitable paths is a challenging problem. This browser will use PANAPI to automatically find the corresponding paths, optimising application- and user-based metrics such as overall page load time, latency, bandwidth, privacy, and CO2 footprint according to the application's needs and user's preferences set in the browser. Additionally, it will also integrate support for RHINE into the Brave browser.
 
 ## Milestone 1 - Kick Off
 
