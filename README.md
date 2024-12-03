@@ -2,14 +2,29 @@
 
 The SCION Browser project aims to integrate SCION into the Brave web browser to enable path-aware retrieval of web resources. However, finding the most suitable paths is a challenging problem. This browser will use PANAPI to automatically find the corresponding paths, optimising application- and user-based metrics such as overall page load time, latency, bandwidth, privacy, and CO2 footprint according to the application's needs and user's preferences set in the browser. Additionally, it will also integrate support for RHINE into the Brave browser.
 
-## MS1 Kick Off
+## Milestone 1 - Kick Off
 
-## MS2 Development of the SCION Web Browser
+## Milestone 2 - Development of the SCION Web Browser
 
-- Setup Instructions: [HTTP Forward proxy](https://scion-http-proxy.readthedocs.io/en/latest/index.html), [scion-browser-extension](https://scion-browser-extension.readthedocs.io/en/latest/)
+### Implementation of SCION into Brave
+
+SCION support is added to the Brave browser in combination of a browser plugin and a local SCION proxy. We also implement a browser GUI that enables users to easily configure their privacy and performance preferences.
+
+- Setup Instructions
 - Presentation
-- Demo video
+- Browser Demo Video
 
-## MS3 Implementation of PANAPI and RHINE into the SCION Browser
+## Milestone 3 - Implementation of PANAPI and RHINE into the SCION Browser
 
-- Ongoing
+### Implementation of PANAPI into Brave 
+
+PANAPI support is added to the SCION browser, to enable both automatic and user-configured path selection to meet the applications and users requirements (e.g. minimizing page load time or CO2 footprint).
+
+- Comparison of PLT with and without PANAPI
+- Demo Video
+
+### Implementation of RHINE into Brave
+
+RHINE support is added to the SCION browser to enable privacy preserving DNS lookups pointing to SCION addresses.
+
+- Demonstration of DNS lookup with RHINE in the browser.
