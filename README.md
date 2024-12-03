@@ -10,7 +10,7 @@ The SCION Browser project aims to integrate SCION into the Brave web browser to 
 
 SCION support is added to the Brave browser in combination of a browser plugin and a local SCION proxy. We also implement a browser GUI that enables users to easily configure their privacy and performance preferences.
 
-- Setup Instructions
+- [Setup Instructions](setup.md)
 - Presentation
 - Browser Demo Video
 
