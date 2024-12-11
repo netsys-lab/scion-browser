@@ -11,7 +11,7 @@ The SCION Browser project (funded by [NGI Search](https://www.ngisearch.eu/view/
 SCION support is added to the Brave browser in combination of a browser plugin and a local SCION proxy. We also implement a browser GUI that enables users to easily configure their privacy and performance preferences.
 
 - [Setup Instructions](setup.md)
-- Presentation
+- [Presentation](https://docs.google.com/presentation/d/1WOG8_PZ0plRXJO1rmgy-g2BhmfGkdW0j9SC0UPZ9W5M/edit?usp=sharing)
 - Browser Demo Video
 
 ## Milestone 3 - Implementation of PANAPI and RHINE into the SCION Browser
