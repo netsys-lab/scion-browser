@@ -14,17 +14,22 @@ SCION support is added to the Brave browser in combination of a browser plugin a
 - [Presentation](https://docs.google.com/presentation/d/1WOG8_PZ0plRXJO1rmgy-g2BhmfGkdW0j9SC0UPZ9W5M/edit?usp=sharing)
 - [Browser Demo Video](https://drive.google.com/file/d/1ecuKRqZxcQujaOwI1KhVlhBcoWTv-BMv/view?usp=sharing)
 
-## Milestone 3 - Implementation of PANAPI and RHINE into the SCION Browser
+## Milestone 3 - Implementation of PANAPI and DoQoS with RHINE into the SCION Browser
+
+This milestone combines the implementation of PANAPI and DoQoS with RHINE into the SCION Browser.
+
+- Presentation
 
 ### Implementation of PANAPI into Brave 
 
 PANAPI support is added to the SCION browser, to enable both automatic and user-configured path selection to meet the applications and users requirements (e.g. minimizing page load time or CO2 footprint).
 
-- Comparison of PLT with and without PANAPI
-- Demo Video
+- Setup Instructions
+- Demo Video: Comparison of PLT with and without PANAPI
 
-### Implementation of RHINE into Brave
+### Implementation of DoQoS with RHINE into Brave
 
-RHINE support is added to the SCION browser to enable privacy preserving DNS lookups pointing to SCION addresses.
+DoQoS (DNS-over-QUIC-over-SCION) with RHINE support is added to the SCION browser to enable privacy preserving DNS lookups pointing to SCION addresses.
 
-- Demonstration of DNS lookup with RHINE in the browser.
+- Setup Instructions
+- Demo Video: DNS lookup with DoQoS and RHINE in the browser.
