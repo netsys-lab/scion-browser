@@ -18,14 +18,14 @@ SCION support is added to the Brave browser in combination of a browser plugin a
 
 This milestone combines the implementation of PANAPI and DoQoS with RHINE into the SCION Browser.
 
-- Presentation
+- Presentation: tbd
 
 ### Implementation of PANAPI into Brave 
 
 PANAPI support is added to the SCION browser, to enable both automatic and user-configured path selection to meet the applications and users requirements (e.g. minimizing page load time or CO2 footprint).
 
-- Setup Instructions
-- Demo Video: Comparison of PLT with and without PANAPI
+- [Setup Instructions](setup_panapi.md)
+- [Demo Video](https://drive.google.com/file/d/135G-EysCCchllGShWgb4vI5JuiQkCZx2/view?usp=sharing): Comparison of CO2 usage with different PANAPI strategies
 
 ### Implementation of DoQoS with RHINE into Brave
 
