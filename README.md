@@ -38,4 +38,4 @@ SDoQ (SCION-based DNS-over-QUIC) with RHINE support is added to the SCION browse
 For instructions how to setup DNS for a SCION network see the [server side ](setup_coredns.md) and [client side](setup_sdns.md) manual.
 
 
-- Demo Video: DNS lookup with DoQoS and RHINE in the browser.
+- [Demo Video](https://drive.google.com/file/d/1LaotUQNsgo6lg-GjAYnsnO0UiwVT6nit/view?resourcekey): DNS lookup with DoQoS and RHINE in the browser.
