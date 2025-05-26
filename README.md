@@ -18,7 +18,7 @@ SCION support is added to the Brave browser in combination of a browser plugin a
 
 This milestone combines the implementation of PANAPI and SDoQ with RHINE into the SCION Browser.
 
-- Presentation: tbd
+- [Presentation](https://docs.google.com/presentation/d/14YJUd2QmO8Dcw6x1eDL4KOhrj171yDF2EdLEGYd4k6A/edit?usp=sharing)
 
 ### Implementation of PANAPI into Brave 
 
