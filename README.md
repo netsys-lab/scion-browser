@@ -31,11 +31,5 @@ PANAPI support is added to the SCION browser, to enable both automatic and user-
 
 SDoQ (SCION-based DNS-over-QUIC) with RHINE support is added to the SCION browser to enable privacy preserving DNS lookups pointing to SCION addresses.
 
-
-
-#### Setup Instructions
-
-For instructions how to setup DNS for a SCION network see the [server side ](setup_coredns.md) and [client side](setup_sdns.md) manual.
-
-
-- [Demo Video](https://drive.google.com/file/d/1LaotUQNsgo6lg-GjAYnsnO0UiwVT6nit/view?resourcekey): DNS lookup with DoQoS and RHINE in the browser.
+- Setup Instructions: To setup SDoQ with RHINE support, follow the [server side ](setup_coredns.md) and [client side](setup_sdns.md) instructions.
+- [Demo Video](https://drive.google.com/file/d/11OKMAhUaOXLGHadc_O-I18yiMQbZ2tKj/view?resourcekey): DNS lookup with DoQoS and RHINE in the browser.
